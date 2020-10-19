@@ -14,7 +14,7 @@ displayName="BKO Things" #mandatory
 
 updateJSONURL="http://myurl.me/" #optional
 
-displayURL="http://example.com/" #optional
+displayURL="https://www.twitch.tv/brooklynotter" #optional
 
 logoFile="examplemod.png" #optional
 
