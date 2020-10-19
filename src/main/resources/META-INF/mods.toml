@@ -2,7 +2,7 @@ modLoader="javafml" #mandatory
 
 loaderVersion="[32,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
 
-issueTrackerURL="http://my.issue.tracker/" #optional
+issueTrackerURL="https://github.com/sjhogge/BKOthings/issues" #optional
 
 [[mods]] #mandatory
 
@@ -16,7 +16,7 @@ updateJSONURL="http://myurl.me/" #optional
 
 displayURL="https://www.twitch.tv/brooklynotter" #optional
 
-logoFile="examplemod.png" #optional
+logoFile="logo.png" #optional
 
 credits="Thanks to my wonderful Youtube and Twitch viewers. And iGoodie, without him I wouldn't have even tried this." #optional
 
