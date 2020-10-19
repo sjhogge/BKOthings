@@ -3,7 +3,7 @@
   "pattern":
   [
     "xxx",
-    "xox",
+    "xxx",
     "xxx"
   ],
   "key":
@@ -11,10 +11,6 @@
     "x":
     {
       "item": "bkothings:ruby"
-    },
-    "o":
-    {
-      "item": "minecraft:diamond"
     }
   },
   "result":
